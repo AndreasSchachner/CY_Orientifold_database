@@ -1,7 +1,7 @@
 # Database for Calabi-Yau reflection orientifolds
 
 
-## New headline:
+## How to read the data:
 
 
 ## Datastructure:
