@@ -1,5 +1,4 @@
-# CY_Orientifold_database
-Database for Calabi-Yau orientifolds 
+# Database for Calabi-Yau reflection orientifolds
 
 
 ## New headline:
