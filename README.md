@@ -7,10 +7,10 @@
 ## Datastructure:
 
     .
-    ├── Data                         # ...
-    │   └── Complete     # orientifold data for complete scan for h^1,1<=6 $h^{1,1}\leq 6$
-    │   └── Random       # orientifold data for random scan for 7<=h^1,1<=12
-    └── CY_database_notebook.ipynb          # notebook
+    ├── Data             # orientifold data ...
+    │   └── Complete     # ... for complete scan for h^1,1<=6
+    │   └── Random       # ... for random scan for 7<=h^1,1<=12
+    └── CY_database_notebook.ipynb          # notebook to read datafiles
     └── README.md       # Readme file
     
     
