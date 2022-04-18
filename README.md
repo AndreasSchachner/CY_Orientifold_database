@@ -14,9 +14,9 @@ We provide a notebook outlining the format of datafiles contained in the databas
 Questions, comments and suggestions can be directed to &#97;&#110;&#100;&#114;&#101;&#97;&#115;&#46;&#115;&#99;&#104;&#97;&#99;&#104;&#110;&#101;&#114;&#64;&#103;&#109;&#120;&#46;&#110;&#101;&#116;.
 
 
-##
+## Used open-source resources:
 
-Other open-source projects used in generating this database and the publicaion are: 
+The following open-source projects were used in generating this database and the publicaion are: 
 
 * polytope and triangulation data is obtained from [sage](https://www.sagemath.org) and [CYTools](https://cytools.liammcallistergroup.com)
 
@@ -54,15 +54,9 @@ Other open-source projects used in generating this database and the publicaion a
 
 # Useful packages and related databases:
 
+The list below contains
+
 ## Open source code and tools:
-
-### Sage
-
-Authors: The Sage Developers
-
-Website: https://www.sagemath.org
-
-Description: Free open-source mathematics software system
 
 ### CYTools
 
