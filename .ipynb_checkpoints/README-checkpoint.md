@@ -31,14 +31,14 @@ The following open-source projects were used in generating this database and the
 
     .
     ├── Data                           # orientifold data ...
-    │   └── Complete                   # ... for complete scan for h^1,1<=6
+    │   └── Complete                   # ... for complete scan of triangulation data for h^1,1<=7
     │          └── h11_2               # ... for h^1,1=2
     │          └── h11_3               # ... for h^1,1=3
     │          └── h11_4               # ... for h^1,1=4
     │          └── h11_5               # ... for h^1,1=5
     │          └── h11_6               # ... for h^1,1=6
     │          └── h11_7               # ... for h^1,1=7
-    │   └── Random                     # ... for random scan for 7<=h^1,1<=12
+    │   └── Random                     # ... for random scan of triangulation data for 7<=h^1,1<=12
     │          └── h11_7               # ... for h^1,1=7
     │          └── h11_8               # ... for h^1,1=8
     │          └── h11_9               # ... for h^1,1=9
