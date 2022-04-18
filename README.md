@@ -24,7 +24,9 @@ Questions, comments and suggestions can be directed to &#97;&#110;&#100;&#114;&#
 * CYTools M. Demirtas, L. McAllister, A. Rios-Tascon https://cytools.liammcallistergroup.com :
 
 
-- <img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
+<img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
+
+<img src="https://render.githubusercontent.com/render/math?math=x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}">
 
 
 ## Datastructure:
