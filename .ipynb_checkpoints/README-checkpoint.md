@@ -17,13 +17,14 @@ Questions, comments and suggestions can be directed to &#97;&#110;&#100;&#114;&#
 
 * M. Kreuzer, H. Skarke http://hep.itp.tuwien.ac.at/~kreuzer/CY/
 
-* R. Atlman, J. Carifio, J. Gray, X. Gao, Y. He, V. Jejjala, B. D. Nelson http://www.rossealtman.com/toriccy/ : This database contains all triangulations and geometries obtained from 4D reflexive polytopes in the KS database up to $h^{1,1}=6$ including non-favourable cases which are omitted in our database. Moreover, the authors consider divisor exchange involutions which give rise to non-trivial odd moduli counted by $h^{1,1}_{-}$
+* R. Atlman, J. Carifio, J. Gray, X. Gao, Y. He, V. Jejjala, B. D. Nelson http://www.rossealtman.com/toriccy/ : This database contains all triangulations and geometries obtained from 4D reflexive polytopes in the KS database up to $`h^{1,1}=6`$ including non-favourable cases which are omitted in our database. Moreover, the authors consider divisor exchange involutions which give rise to non-trivial odd moduli counted by $`h^{1,1}_{-}`$
 
 * F. Carta, J. Moritz and A. Westphal https://www.desy.de/~westphal/orientifold_webpage/cicy_orientifolds.html : 
 
 * CYTools M. Demirtas, L. McAllister, A. Rios-Tascon https://cytools.liammcallistergroup.com :
 
 
+- <img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
 
 
 ## Datastructure:
