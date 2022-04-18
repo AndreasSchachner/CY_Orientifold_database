@@ -16,9 +16,9 @@ Questions, comments and suggestions can be directed to &#97;&#110;&#100;&#114;&#
 
 ## Used open-source resources:
 
-The following open-source projects were used in generating this database and the publicaion are: 
+The following open-source projects were used in generating this database and the publicaion: 
 
-* polytope and triangulation data is obtained from [sage](https://www.sagemath.org) and [CYTools](https://cytools.liammcallistergroup.com)
+* [Sage](https://www.sagemath.org) and [CYTools](https://cytools.liammcallistergroup.com) for polytope and triangulation data
 
 * modified version of [TOPCOM](http://www.rambau.wm.uni-bayreuth.de/TOPCOM/) [[GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)] that can be found [here](https://github.com/LiamMcAllisterGroup/topcom)
 
@@ -64,7 +64,7 @@ Authors: M. Demirtas, L. McAllister, A. Rios-Tascon
 
 Website: https://cytools.liammcallistergroup.com and https://github.com/LiamMcAllisterGroup/cytools
 
-Description: 
+Description: CYTools is a powerful software package developed by the group of L. McAllister at Cornell University specifically designed to study Calabi-Yau manifolds arising from the Kreuzer-Skarke database. Among others, it enables us to compute triangulations efficiently for any value of <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}\leq 491">. We utilised this package to manipulate polytope data and to compute triangulations.
 
 
 ### CohomCalg
@@ -84,13 +84,21 @@ Authors: M. Kreuzer, H. Skarke
 
 Website: http://hep.itp.tuwien.ac.at/~kreuzer/CY/
 
-Description: 
+Description: The database contains among others a classification of 4D and 5D reflexive polytopes with the former being heavily used in developing this database. Further, it provides information on the classification scheme for reflexive polyhedra and data of Landau-Ginzburg models and reflexive Gorenstein cones. 
 
-### CICY database:
+### CICY threefold database:
 
-Authors: 
+Authors: P. Candelas, A. M. Dale, C. A. Lutken, R. Schimmrigk
 
 Website: http://www-thphys.physics.ox.ac.uk/projects/CalabiYau/cicylist/
+
+Description: 
+
+### CICY fourfold database:
+
+Authors: J. Gray, A. S. Haupt, A. Lukas
+
+Website: http://www-thphys.physics.ox.ac.uk/projects/CalabiYau/Cicy4folds/index.html
 
 Description: 
 
@@ -108,6 +116,6 @@ Authors: F. Carta, J. Moritz and A. Westphal
 
 Website: https://www.desy.de/~westphal/orientifold_webpage/cicy_orientifolds.html
 
-Description: 
+Description: A database of orientifolds obtained from CICY threefolds. The 
 
 
