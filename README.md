@@ -17,15 +17,11 @@ Questions, comments and suggestions can be directed to &#97;&#110;&#100;&#114;&#
 
 * M. Kreuzer, H. Skarke http://hep.itp.tuwien.ac.at/~kreuzer/CY/
 
-* R. Atlman, J. Carifio, J. Gray, X. Gao, Y. He, V. Jejjala, B. D. Nelson http://www.rossealtman.com/toriccy/ : This database contains all triangulations and geometries obtained from 4D reflexive polytopes in the KS database up to $`h^{1,1}=6`$ including non-favourable cases which are omitted in our database. Moreover, the authors consider divisor exchange involutions which give rise to non-trivial odd moduli counted by $`h^{1,1}_{-}`$
+* R. Atlman, J. Carifio, J. Gray, X. Gao, Y. He, V. Jejjala, B. D. Nelson http://www.rossealtman.com/toriccy/ : This database contains all triangulations and geometries obtained from 4D reflexive polytopes in the KS database up to <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}=6"> including non-favourable cases which are omitted in our database. Moreover, the authors consider divisor exchange involutions which give rise to non-trivial odd moduli counted by $`h^{1,1}_{-}`$
 
 * F. Carta, J. Moritz and A. Westphal https://www.desy.de/~westphal/orientifold_webpage/cicy_orientifolds.html : 
 
 * CYTools M. Demirtas, L. McAllister, A. Rios-Tascon https://cytools.liammcallistergroup.com :
-
-
-
-<img src="https://render.githubusercontent.com/render/math?math=\color{white}x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}">
 
 
 ## Datastructure:
@@ -33,7 +29,7 @@ Questions, comments and suggestions can be directed to &#97;&#110;&#100;&#114;&#
     .
     ├── Data                           # orientifold data ...
     │   └── Complete                   # ... for complete scan for h^1,1<=6
-    │          └── h11_2               # ... for h^1,1=2
+    │          └── h11_2               # ... for <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}=2">
     │          └── h11_3               # ... for h^1,1=3
     │          └── h11_4               # ... for h^1,1=4
     │          └── h11_5               # ... for h^1,1=5
