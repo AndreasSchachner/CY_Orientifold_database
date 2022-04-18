@@ -2,9 +2,9 @@
 
 This database contains Calabi-Yau orientifolds together with their underlying polytope and triangulation data as described in our paper available on the ArXiv: 
 
-Author: Andreas Schachner
+Authors: Chiara Crinò, Fernando Quevedo, Andreas Schachner, Roberto Valandro
 
-E-Mail: &#97;&#110;&#100;&#114;&#101;&#97;&#115;&#46;&#115;&#99;&#104;&#97;&#99;&#104;&#110;&#101;&#114;&#64;&#103;&#109;&#120;&#46;&#110;&#101;&#116;
+Contact E-Mail: &#97;&#110;&#100;&#114;&#101;&#97;&#115;&#46;&#115;&#99;&#104;&#97;&#99;&#104;&#110;&#101;&#114;&#64;&#103;&#109;&#120;&#46;&#110;&#101;&#116;
 
 
 ## How to read the data:
@@ -51,10 +51,11 @@ The following open-source projects were used in generating this database and the
 
 <br>
 <br>
+<br>
 
 # Useful packages and related databases:
 
-The list below contains
+The list below contains software and databases which are related to our data.
 
 ## Open source code and tools:
 
@@ -92,7 +93,7 @@ Authors: P. Candelas, A. M. Dale, C. A. Lutken, R. Schimmrigk
 
 Website: [CICY threefolds](http://www-thphys.physics.ox.ac.uk/projects/CalabiYau/cicylist/)
 
-Description: 
+Description: A list of all 7,890 Calabi-Yau manifolds defined as complete intersections in products of projective spaces.
 
 ### CICY fourfold database:
 
@@ -100,7 +101,7 @@ Authors: J. Gray, A. S. Haupt, A. Lukas
 
 Website: [CICY fourfolds](http://www-thphys.physics.ox.ac.uk/projects/CalabiYau/Cicy4folds/index.html)
 
-Description: 
+Description: A complete list of 921,497 Calabi-Yau four-folds defined as complete intersections in products of projective spaces.
 
 ### AGHJN database:
 
