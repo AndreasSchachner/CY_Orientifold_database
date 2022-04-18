@@ -35,18 +35,43 @@ Questions, comments and suggestions can be directed to &#97;&#110;&#100;&#114;&#
     └── CY_database_notebook.ipynb     # notebook to read datafiles
     └── README.md                      # Readme file
     
-    
-# Open source code and other databases:
 
-## CYTools
+
+<br>
+<br>
+
+# Useful packages and related databases:
+
+## Open source code and tools:
+
+### CYTools
 
 Authors: M. Demirtas, L. McAllister, A. Rios-Tascon 
 
-Website: https://cytools.liammcallistergroup.com 
+Website: https://cytools.liammcallistergroup.com and https://github.com/LiamMcAllisterGroup/cytools
 
 Description: 
 
-## KS database:
+### CohomCalg
+
+Authors: 
+
+Website: 
+
+Description: 
+
+### Sage
+
+Authors: 
+
+Website: 
+
+Description: 
+
+
+## CY manifold and orientifold databases:
+
+### KS database:
 
 Authors: M. Kreuzer, H. Skarke
 
@@ -54,7 +79,15 @@ Website: http://hep.itp.tuwien.ac.at/~kreuzer/CY/
 
 Description: 
 
-## AGHJN database:
+### CICY database:
+
+Authors: 
+
+Website: http://www-thphys.physics.ox.ac.uk/projects/CalabiYau/cicylist/
+
+Description: 
+
+### AGHJN database:
 
 Authors: R. Altman, J. Carifio, J. Gray, X. Gao, Y. He, V. Jejjala, B. D. Nelson 
 
@@ -62,7 +95,7 @@ Website: http://www.rossealtman.com/toriccy/
 
 Description: This database contains all triangulations and geometries obtained from 4D reflexive polytopes in the KS database up to <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}=6"> including non-favourable cases which are omitted in our database. Moreover, the authors consider divisor exchange involutions which give rise to non-trivial odd moduli counted by <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}_{-}">.
 
-## CICY orientifold database:
+### CICY orientifold database:
 
 Authors: F. Carta, J. Moritz and A. Westphal 
 
