@@ -13,6 +13,19 @@ We provide a notebook outlining the format of datafiles contained in the databas
 
 Questions, comments and suggestions can be directed to &#97;&#110;&#100;&#114;&#101;&#97;&#115;&#46;&#115;&#99;&#104;&#97;&#99;&#104;&#110;&#101;&#114;&#64;&#103;&#109;&#120;&#46;&#110;&#101;&#116;.
 
+## Open source code and other databases:
+
+* M. Kreuzer, H. Skarke http://hep.itp.tuwien.ac.at/~kreuzer/CY/
+
+* R. Atlman, J. Carifio, J. Gray, X. Gao, Y. He, V. Jejjala, B. D. Nelson http://www.rossealtman.com/toriccy/ : This database contains all triangulations and geometries obtained from 4D reflexive polytopes in the KS database up to $h^{1,1}=6$ including non-favourable cases which are omitted in our database. Moreover, the authors consider divisor exchange involutions which give rise to non-trivial odd moduli counted by $h^{1,1}_{-}$
+
+* F. Carta, J. Moritz and A. Westphal https://www.desy.de/~westphal/orientifold_webpage/cicy_orientifolds.html : 
+
+* CYTools M. Demirtas, L. McAllister, A. Rios-Tascon https://cytools.liammcallistergroup.com :
+
+
+
+
 ## Datastructure:
 
     .
