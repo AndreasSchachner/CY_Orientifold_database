@@ -14,6 +14,19 @@ We provide a notebook outlining the format of datafiles contained in the databas
 Questions, comments and suggestions can be directed to &#97;&#110;&#100;&#114;&#101;&#97;&#115;&#46;&#115;&#99;&#104;&#97;&#99;&#104;&#110;&#101;&#114;&#64;&#103;&#109;&#120;&#46;&#110;&#101;&#116;.
 
 
+##
+
+Other open-source projects used in generating this database and the publicaion are: 
+
+* polytope and triangulation data is obtained from [sage](https://www.sagemath.org) and [CYTools](https://cytools.liammcallistergroup.com)
+
+* modified version of [TOPCOM](http://www.rambau.wm.uni-bayreuth.de/TOPCOM/) [[GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)] that can be found [here](https://github.com/LiamMcAllisterGroup/topcom)
+
+* the [Computational Geometry Algorithms Library](https://www.cgal.org) [[LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)]
+
+* multiple Python packages including [SciPy](https://www.scipy.org/), [NumPy](https://numpy.org/), [pplpy](https://gitlab.com/videlec/pplpy), [OR-Tools](https://developers.google.com/optimization), [scikit-sparse](https://github.com/scikit-sparse/scikit-sparse), [pandas](https://pandas.pydata.org), [matplotlib](https://matplotlib.org), [seaborn](https://seaborn.pydata.org) and [flint-py](https://gitlab.com/alisianoi/flint-py).
+
+
 ## Datastructure:
 
     .
@@ -36,13 +49,20 @@ Questions, comments and suggestions can be directed to &#97;&#110;&#100;&#114;&#
     └── README.md                      # Readme file
     
 
-
 <br>
 <br>
 
 # Useful packages and related databases:
 
 ## Open source code and tools:
+
+### Sage
+
+Authors: The Sage Developers
+
+Website: https://www.sagemath.org
+
+Description: Free open-source mathematics software system
 
 ### CYTools
 
@@ -52,21 +72,14 @@ Website: https://cytools.liammcallistergroup.com and https://github.com/LiamMcAl
 
 Description: 
 
+
 ### CohomCalg
 
-Authors: 
+Authors: R. Blumenhagen, B. Jurke, T. Rahn, H. Roschy
 
-Website: 
+Website: https://github.com/BenjaminJurke/cohomCalg
 
-Description: 
-
-### Sage
-
-Authors: 
-
-Website: 
-
-Description: 
+Description: Efficient tool to computing sheaf cohomologies for line bundles on toric varieties.
 
 
 ## CY manifold and orientifold databases:
