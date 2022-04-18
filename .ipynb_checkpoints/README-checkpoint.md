@@ -14,7 +14,7 @@ We provide a notebook outlining the format of datafiles contained in the databas
 Questions, comments and suggestions can be directed to &#97;&#110;&#100;&#114;&#101;&#97;&#115;&#46;&#115;&#99;&#104;&#97;&#99;&#104;&#110;&#101;&#114;&#64;&#103;&#109;&#120;&#46;&#110;&#101;&#116;.
 
 
-## Used open-source resources:
+## Employed open-source software:
 
 The following open-source projects were used in generating this database and the publicaion: 
 
@@ -62,7 +62,7 @@ The list below contains
 
 Authors: M. Demirtas, L. McAllister, A. Rios-Tascon 
 
-Website: https://cytools.liammcallistergroup.com and https://github.com/LiamMcAllisterGroup/cytools
+Website: [CYTools](https://cytools.liammcallistergroup.com) and [GitHub](https://github.com/LiamMcAllisterGroup/cytools)
 
 Description: CYTools is a powerful software package developed by the group of L. McAllister at Cornell University specifically designed to study Calabi-Yau manifolds arising from the Kreuzer-Skarke database. Among others, it enables us to compute triangulations efficiently for any value of <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}\leq 491">. We utilised this package to manipulate polytope data and to compute triangulations.
 
@@ -71,7 +71,7 @@ Description: CYTools is a powerful software package developed by the group of L.
 
 Authors: R. Blumenhagen, B. Jurke, T. Rahn, H. Roschy
 
-Website: https://github.com/BenjaminJurke/cohomCalg
+Website: [cohomCalg](https://github.com/BenjaminJurke/cohomCalg)
 
 Description: Efficient tool to computing sheaf cohomologies for line bundles on toric varieties.
 
@@ -82,7 +82,7 @@ Description: Efficient tool to computing sheaf cohomologies for line bundles on 
 
 Authors: M. Kreuzer, H. Skarke
 
-Website: http://hep.itp.tuwien.ac.at/~kreuzer/CY/
+Website: [KS database](http://hep.itp.tuwien.ac.at/~kreuzer/CY/)
 
 Description: The database contains among others a classification of 4D and 5D reflexive polytopes with the former being heavily used in developing this database. Further, it provides information on the classification scheme for reflexive polyhedra and data of Landau-Ginzburg models and reflexive Gorenstein cones. 
 
@@ -90,7 +90,7 @@ Description: The database contains among others a classification of 4D and 5D re
 
 Authors: P. Candelas, A. M. Dale, C. A. Lutken, R. Schimmrigk
 
-Website: http://www-thphys.physics.ox.ac.uk/projects/CalabiYau/cicylist/
+Website: [CICY threefolds](http://www-thphys.physics.ox.ac.uk/projects/CalabiYau/cicylist/)
 
 Description: 
 
@@ -98,7 +98,7 @@ Description:
 
 Authors: J. Gray, A. S. Haupt, A. Lukas
 
-Website: http://www-thphys.physics.ox.ac.uk/projects/CalabiYau/Cicy4folds/index.html
+Website: [CICY fourfolds](http://www-thphys.physics.ox.ac.uk/projects/CalabiYau/Cicy4folds/index.html)
 
 Description: 
 
@@ -106,7 +106,7 @@ Description:
 
 Authors: R. Altman, J. Carifio, J. Gray, X. Gao, Y. He, V. Jejjala, B. D. Nelson 
 
-Website: http://www.rossealtman.com/toriccy/
+Website: [AGHJN database](http://www.rossealtman.com/toriccy/)
 
 Description: This database contains all triangulations and geometries obtained from 4D reflexive polytopes in the KS database up to <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}=6"> including non-favourable cases which are omitted in our database. Moreover, the authors consider divisor exchange involutions which give rise to non-trivial odd moduli counted by <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}_{-}">.
 
@@ -114,8 +114,8 @@ Description: This database contains all triangulations and geometries obtained f
 
 Authors: F. Carta, J. Moritz and A. Westphal 
 
-Website: https://www.desy.de/~westphal/orientifold_webpage/cicy_orientifolds.html
+Website: [CICY orientifold database](https://www.desy.de/~westphal/orientifold_webpage/cicy_orientifolds.html)
 
-Description: A database of orientifolds obtained from CICY threefolds. The 
+Description: A database of orientifolds obtained from both favourable and non-favourable CICY threefolds. It includes both reflection and exchange involutions. They apply their database to checking the necessary conditions for ultra-light throat axions (thraxions) as proposed in [1812.03999](https://arxiv.org/abs/1812.03999).
 
 
