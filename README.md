@@ -18,11 +18,11 @@ The database contains the following data:
     - locally with SO(8)-stacks or 
     - non-locally using fully recombined Whitney branes.
     
-* <b>Fibrations</b>: By looking for 2D reflexive sub-polytopes, we determined the possible genus one fibrations.
+* <b>Fibrations</b>: By looking for 2D reflexive sub-polytopes using the algorithm of [1907.09482](https://inspirehep.net/literature/1745921), we determined the possible genus one fibrations.
 
-* <b>Divisor topologies</b>: We computed the Hodge numbers for all prime toric divisors together with Euler numbers and arithmetic genus.
+* <b>Divisor topologies</b>: We computed the Hodge numbers for all prime toric divisors together with their Euler number and arithmetic genus. 
 
-* <b>Diagonal divisors</b>: We check the presence of diagonal del Pezzo divisors necessary to realise the LVS.
+* <b>Diagonal divisors</b>: We check the presence of diagonal del Pezzo divisors necessary to realise the [LVS](https://inspirehep.net/literature/676185).
 
 ## How to read the data
 
