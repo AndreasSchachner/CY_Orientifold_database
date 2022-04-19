@@ -11,7 +11,7 @@ Contact E-Mail: &#97;&#110;&#100;&#114;&#101;&#97;&#115;&#46;&#115;&#99;&#104;&#
 The database contains the following data
 
 
-* Polytope data: We present the data of favourable 4D reflexive polytopes from [KS database](http://hep.itp.tuwien.ac.at/~kreuzer/CY/) together with the GLSM charge matrix.
+* <b>Polytope data</b>: We present the data of favourable 4D reflexive polytopes from [KS database](http://hep.itp.tuwien.ac.at/~kreuzer/CY/) together with the GLSM charge matrix.
 * Triangulation data: Utilising [CYTools](https://cytools.liammcallistergroup.com), we computed fine, regular, star triangulations (FRSTs) of favourable polytopes. Our database contains information about the simplices used for each FRST as well as about the 2nd Chern class, SR ideal and triple intersection numbers.
 * Orientifolds: We provide information about the O-plane configuration as well as the D3-charges from Op-planes, local D7-tadpole cancellation with SO(8)-stacks and non-local D7-tadpole cancellation using fully recombined Whitney branes.
 * Fibrations: By looking for 2D reflexive sub-polytopes, we determined the possible genus one fibrations.
