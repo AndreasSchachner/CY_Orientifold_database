@@ -1,22 +1,28 @@
 # Database for Calabi-Yau reflection orientifolds
 
-This database contains Calabi-Yau orientifolds together with their underlying polytope and triangulation data as described in our paper available on the ArXiv: 
+This database contains Calabi-Yau orientifolds and their underlying polytope and triangulation data as described in our paper available on the ArXiv: [ArXiv](https://arxiv.org).
 
 Authors: Chiara Crinò, Fernando Quevedo, Andreas Schachner, Roberto Valandro
 
 Contact E-Mail: &#97;&#110;&#100;&#114;&#101;&#97;&#115;&#46;&#115;&#99;&#104;&#97;&#99;&#104;&#110;&#101;&#114;&#64;&#103;&#109;&#120;&#46;&#110;&#101;&#116;
 
+## Available data
 
-## How to read the data:
+* Polytope data:
+* 
+
+
+
+## How to read the data
 
 We provide a notebook outlining the format of datafiles contained in the database.
 
 Questions, comments and suggestions can be directed to &#97;&#110;&#100;&#114;&#101;&#97;&#115;&#46;&#115;&#99;&#104;&#97;&#99;&#104;&#110;&#101;&#114;&#64;&#103;&#109;&#120;&#46;&#110;&#101;&#116;.
 
 
-## Employed open-source software:
+## Employed open-source software
 
-The following open-source projects were used in generating this database and the publicaion: 
+The following open-source projects were used in generating this database and the publication: 
 
 * [Sage](https://www.sagemath.org) and [CYTools](https://cytools.liammcallistergroup.com) for polytope and triangulation data
 
@@ -45,8 +51,8 @@ The following open-source projects were used in generating this database and the
     │          └── h11_10              # ... for h^1,1=10
     │          └── h11_11              # ... for h^1,1=11
     │          └── h11_12              # ... for h^1,1=12
-    └── CY_database_notebook.ipynb     # notebook to read datafiles
-    └── README.md                      # Readme file
+    └── CY_database_notebook.ipynb     # notebook to read data files
+    └── README.md                      # readme file
     
 
 <br>
