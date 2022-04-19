@@ -12,11 +12,13 @@ The database contains the following data
 
 
 * <b>Polytope data</b>: We present the data of favourable 4D reflexive polytopes from [KS database](http://hep.itp.tuwien.ac.at/~kreuzer/CY/) together with the GLSM charge matrix.
-* Triangulation data: Utilising [CYTools](https://cytools.liammcallistergroup.com), we computed fine, regular, star triangulations (FRSTs) of favourable polytopes. Our database contains information about the simplices used for each FRST as well as about the 2nd Chern class, SR ideal and triple intersection numbers.
-* Orientifolds: We provide information about the O-plane configuration as well as the D3-charges from Op-planes, local D7-tadpole cancellation with SO(8)-stacks and non-local D7-tadpole cancellation using fully recombined Whitney branes.
-* Fibrations: By looking for 2D reflexive sub-polytopes, we determined the possible genus one fibrations.
-* Divisor topologies: We computed the Hodge numbers for all prime toric divisors together with Euler numbers and arithmetic genus.
-* Diagonal divisors: We check the presence of diagonal del Pezzo divisors necessary to realise the LVS.
+* <b>Triangulation data</b>: Utilising [CYTools](https://cytools.liammcallistergroup.com), we computed fine, regular, star triangulations (FRSTs) of favourable polytopes. Our database contains information about the simplices used for each FRST as well as about the 2nd Chern class, SR ideal and triple intersection numbers.
+* <b>Orientifolds</b>: We provide information about the O-plane configuration as well as the D3-charges from Op-planes and D7-branes. Here we cancel the D7-tadpole in two ways:
+    - locally with SO(8)-stacks or 
+    - non-locally using fully recombined Whitney branes.
+* <b>Fibrations</b>: By looking for 2D reflexive sub-polytopes, we determined the possible genus one fibrations.
+* <b>Divisor topologies</b>: We computed the Hodge numbers for all prime toric divisors together with Euler numbers and arithmetic genus.
+* <b>Diagonal divisors</b>: We check the presence of diagonal del Pezzo divisors necessary to realise the LVS.
 
 ## How to read the data
 
