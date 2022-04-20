@@ -1,0 +1,6 @@
+
+
+# Jupyter notebooks (if you want to add one use the --force option)
+*.ipynb
+.ipynb_checkpoints
+*_checkpoints
