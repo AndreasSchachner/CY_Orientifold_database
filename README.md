@@ -1,4 +1,4 @@
-# Database for Calabi-Yau reflection orientifolds
+# CQSV Database for Calabi-Yau Reflection Orientifolds
 
 This database contains Calabi-Yau orientifolds and their underlying polytope and triangulation data as described in our paper available on the ArXiv: [ArXiv](https://arxiv.org).
 
