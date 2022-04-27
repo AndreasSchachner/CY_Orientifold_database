@@ -10,11 +10,11 @@ Contact E-Mail: &#97;&#110;&#100;&#114;&#101;&#97;&#115;&#46;&#115;&#99;&#104;&#
 
 The database contains the following data:
 
-* <b>Polytope data</b>: We present the data of favourable 4D reflexive polytopes from [KS database](http://hep.itp.tuwien.ac.at/~kreuzer/CY/) together with the GLSM charge matrix.
+* <b>Polytope data</b>: We present the data of favourable 4D reflexive polytopes obtained from the [KS database](http://hep.itp.tuwien.ac.at/~kreuzer/CY/) together with the GLSM charge matrix, Hodge numbers and Euler characteristics.
 
-* <b>Triangulation data</b>: Utilising [CYTools](https://cytools.liammcallistergroup.com), we computed fine, regular, star triangulations (FRSTs) of favourable polytopes. Our database contains information about the simplices used for each FRST as well as about the 2nd Chern class, SR ideal and triple intersection numbers.
+* <b>Triangulation data</b>: Utilising [CYTools](https://cytools.liammcallistergroup.com), we computed fine, regular, star triangulations (FRSTs) of favourable polytopes. Our database contains information about the simplices used for each FRST as well as about the 2nd Chern class, the SR ideal and triple intersection numbers.
 
-* <b>Orientifolds</b>: We provide information about the O-plane configuration as well as the D3-charges from Op-planes and D7-branes. Here we cancel the D7-tadpole in two ways:
+* <b>Orientifolds</b>: We provide information about the O-plane configurations for reflection involutions z_i -> z_i of a single toric coordinate z_i. We computed the D3-charges from Op-planes and D7-branes where we cancel the D7-tadpole in two ways:
     - locally with SO(8)-stacks or 
     - non-locally using fully recombined Whitney branes.
     
