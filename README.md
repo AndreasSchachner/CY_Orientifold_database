@@ -62,7 +62,7 @@ The following open-source projects were used in generating this database and the
     │          └── h11_10              # ... for h^1,1=10
     │          └── h11_11              # ... for h^1,1=11
     │          └── h11_12              # ... for h^1,1=12
-    └── CY_database_notebook.ipynb     # notebook to read data files
+    └── CY_database_notebook.ipynb     # notebook with instructions to read data files
     └── README.md                      # readme file
     
 
@@ -126,7 +126,7 @@ Authors: R. Altman, J. Carifio, J. Gray, X. Gao, Y. He, V. Jejjala, B. D. Nelson
 
 Website: [AGHJN database](http://www.rossealtman.com/toriccy/)
 
-Description: This database contains all triangulations and geometries obtained from 4D reflexive polytopes in the KS database up to <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}=6"> including non-favourable cases which are omitted in our database. Moreover, the authors consider divisor exchange involutions which give rise to non-trivial odd moduli counted by <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}_{-}">.
+Description: This database contains all triangulations and geometries obtained from 4D reflexive polytopes in the [KS database](http://hep.itp.tuwien.ac.at/~kreuzer/CY/) up to <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}=6"> including non-favourable cases which are omitted in our database. Moreover, the authors consider divisor exchange involutions which give rise to non-trivial <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}_{-}">.
 
 ### CICY orientifold database:
 
