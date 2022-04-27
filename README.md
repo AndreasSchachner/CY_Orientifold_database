@@ -82,7 +82,7 @@ Authors: M. Demirtas, L. McAllister, A. Rios-Tascon
 
 Website: [CYTools](https://cytools.liammcallistergroup.com) and [GitHub](https://github.com/LiamMcAllisterGroup/cytools)
 
-Description: CYTools is a powerful software package developed by the group of L. McAllister at Cornell University specifically designed to study Calabi-Yau manifolds arising from the Kreuzer-Skarke database. Among others, it enables us to compute triangulations efficiently for any value of <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}\leq 491">. We utilised this package to manipulate polytope data and to compute triangulations.
+Description: CYTools is a powerful software package developed by the group of L. McAllister at Cornell University specifically designed to study Calabi-Yau manifolds arising from the Kreuzer-Skarke database. Among others, it enables us to compute triangulations efficiently for any value of h^{1,1}<=491. We utilised this package to manipulate polytope data and to compute triangulations.
 
 
 ### CohomCalg
@@ -126,7 +126,7 @@ Authors: R. Altman, J. Carifio, J. Gray, X. Gao, Y. He, V. Jejjala, B. D. Nelson
 
 Website: [AGHJN database](http://www.rossealtman.com/toriccy/)
 
-Description: This database contains all triangulations and geometries obtained from 4D reflexive polytopes in the [KS database](http://hep.itp.tuwien.ac.at/~kreuzer/CY/) up to <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}=6"> including non-favourable cases which are omitted in our database. Moreover, the authors consider divisor exchange involutions which give rise to non-trivial <img src="https://render.githubusercontent.com/render/math?math=\color{white}h^{1,1}_{-}">.
+Description: This database contains all triangulations and geometries obtained from 4D reflexive polytopes in the [KS database](http://hep.itp.tuwien.ac.at/~kreuzer/CY/) up to h^{1,1}=6 including non-favourable cases which are omitted in our database. Moreover, the authors consider divisor exchange involutions which give rise to non-trivial h^{1,1}_{-}.
 
 ### CICY orientifold database:
 
