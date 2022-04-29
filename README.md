@@ -1,6 +1,6 @@
 # CQSV Database for Calabi-Yau Reflection Orientifolds
 
-This database contains Calabi-Yau orientifolds and their underlying polytope and triangulation data as described in our paper available on the ArXiv: [ArXiv](https://arxiv.org).
+This database contains Calabi-Yau orientifolds and their underlying polytope and triangulation data as described in our paper available on the ArXiv: [https://arxiv.org/abs/2204.13115](https://arxiv.org).
 
 Authors: Chiara Crinò, Fernando Quevedo, Andreas Schachner, Roberto Valandro
 
@@ -82,7 +82,7 @@ Authors: M. Demirtas, L. McAllister, A. Rios-Tascon
 
 Website: [CYTools](https://cytools.liammcallistergroup.com) and [GitHub](https://github.com/LiamMcAllisterGroup/cytools)
 
-Description: CYTools is a powerful software package developed by the group of L. McAllister at Cornell University specifically designed to study Calabi-Yau manifolds arising from the Kreuzer-Skarke database. Among others, it enables us to compute triangulations efficiently for any value of h^{1,1}<=491. We utilised this package to manipulate polytope data and to compute triangulations.
+Description: CYTools is a powerful software package developed by the group of L. McAllister at Cornell University specifically designed to study Calabi-Yau manifolds arising from the Kreuzer-Skarke database. Among others, it enables us to compute triangulations efficiently for any value of h^{1,1}\leq 491. We utilised this package to manipulate polytope data and to compute triangulations.
 
 
 ### CohomCalg
